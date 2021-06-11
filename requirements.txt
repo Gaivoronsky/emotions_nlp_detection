@@ -36,4 +36,4 @@ tqdm==4.48.2
 transformers==3.0.2
 urllib3==1.25.10
 webrtcvad==2.0.10
-websockets==8.1
+websockets==9.1
